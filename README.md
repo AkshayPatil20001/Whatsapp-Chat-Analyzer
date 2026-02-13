@@ -96,12 +96,12 @@ streamlit run app.py
 | **Dashboard Overview** | **Social Graph** |
 |:---:|:---:|
 | * Visualize activity trends and top users * | * Explore who influences whom in the group * |
-| ![Dashboard Mockup](https://via.placeholder.com/400x200?text=Analytics+Dashboard) | ![Graph Mockup](https://via.placeholder.com/400x200?text=Social+Network+Graph) |
+| ![Dashboard](assets/dashboard.png) | ![Social Graph](assets/social_graph.png) |
 
 | **AI Chat Assistant** | **Emoji Analysis** |
 |:---:|:---:|
 | * Chat with your data using natural language * | * See the emotional pulse of the chat * |
-| ![AI Chat Mockup](https://via.placeholder.com/400x200?text=AI+Chat+Interface) | ![Emoji Mockup](https://via.placeholder.com/400x200?text=Emoji+Cloud) |
+| ![AI Chat](assets/ai_chat.png) | ![Emoji Analysis](assets/emoji_analysis.png) |
 
 ---
 
