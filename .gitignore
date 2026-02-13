@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+venv/
+env/
+.env
+
+# Data and large files
+Datasets/
+data/
+*.db
+*.sqlite3
+
+# OS specific
+.DS_Store
+Thumbs.db
